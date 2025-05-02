@@ -51,30 +51,3 @@ I focus on:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsajedulra&layout=compact&theme=tokyonight" />
 </p>
 
----
-
-## 📌 Featured Projects
-
-### 🚀 [Project Name 1](https://github.com/mdsajedulra/project-1)
-- A brief description of what the project does and what you learned.
-
-### 📚 [Project Name 2](https://github.com/mdsajedulra/project-2)
-- A brief summary of the technologies used and key features.
-
-### 💼 [Project Name 3](https://github.com/mdsajedulra/project-3)
-- Highlights of the project, your role, and how it solves a problem.
-
----
-
-## 📄 Each project must have a detailed README.md
-
-Make sure inside each pinned repository:
-- What problem it solves
-- What technologies are used
-- How to run locally
-- Screenshot or demo link (if any)
-
----
-
-🔁 *README maintained and updated by [mdsajedulra](https://github.com/mdsajedulra)*
-
