@@ -9,7 +9,6 @@
 
 ## 🧑‍💼 About Me
 
-🎓 My official name is **Md Sajedul Islam**.  
 🚀 I am on a mission to build meaningful digital solutions and contribute to the tech world with creativity and responsibility.  
 💡 I believe in learning by building and sharing knowledge.
 
@@ -20,7 +19,7 @@
 - 📧 Email: [mdsajedulra@gmail.com](mailto:mdsajedulra@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/mdsajedulra](https://linkedin.com/in/mdsajedulra)  
 - 🐦 Twitter: [twitter.com/mdsajedulra](https://twitter.com/mdsajedulra)  
-- 🌐 Portfolio: [https://your-portfolio-link.com](https://your-portfolio-link.com)
+- 🌐 Portfolio: [https://portfolio-beryl-three-26.vercel.app/](https://portfolio-beryl-three-26.vercel.app/)
 
 ---
 
