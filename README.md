@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-cover-image-link.com" alt="banner" />
+  <img src="https://i.ibb.co.com/4RhWmsR4/1682822932504.jpg" alt="banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Md Sajedul Islam</h1>
