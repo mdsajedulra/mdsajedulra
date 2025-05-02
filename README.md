@@ -27,10 +27,10 @@
 
 I focus on:
 - 🔧 Backend API development using Node.js, Express
-- 🌐 Frontend development with React, Tailwind CSS
+- 🌐 Frontend development with React, Next Js, Tailwind CSS
 - 📦 MongoDB & Mongoose for database management
 - 🔐 Secure Authentication & Authorization
-- 💳 Payment Gateway Integration (e.g. SurjoPay)
+- 💳 Payment Gateway Integration
 - 🌍 Full Stack Projects with clean UI and strong UX
 
 ---
